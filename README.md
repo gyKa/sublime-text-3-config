@@ -17,7 +17,7 @@ Select `Adaptive` theme by pressing `⌘`+`Shift`+`P`, then `UI: Select Theme`.
 
 ## Color scheme
 
-Select `Mariana` color scheme by pressing `⌘`+`Shift`+`P`, then `UI: Select Color Scheme`.
+Select `Monokai` color scheme by pressing `⌘`+`Shift`+`P`, then `UI: Select Color Scheme`.
 
 ## Packages
 
